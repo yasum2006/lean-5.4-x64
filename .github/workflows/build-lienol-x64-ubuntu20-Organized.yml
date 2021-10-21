@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build lienol-u2004
+name: Build Lienol X64 Ubuntu2004-O
 
 on:
   repository_dispatch:
