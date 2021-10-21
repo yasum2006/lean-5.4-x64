@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: ubuntu2004 lean-x64
+name: ubuntu2004 lean x64
 
 on:
   repository_dispatch:
