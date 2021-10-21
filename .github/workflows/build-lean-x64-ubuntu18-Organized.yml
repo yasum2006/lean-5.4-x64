@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build Lean X64
+name: Build Lean X64 U18-O
 
 on:
   repository_dispatch:
