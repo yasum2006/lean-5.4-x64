@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build Lean X64 Ubuntu2004-O
+name: Build openwrt X64 Ubuntu20
 
 on:
   repository_dispatch:
