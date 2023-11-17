@@ -11,7 +11,7 @@
 #
 
 # Uncomment a feed source
-sed -i '$a src-git https://github.com/yasum2006/helloworld.git' feeds.conf.default
+sed -i '$a src-git helloworld https://github.com/yasum2006/helloworld.git' feeds.conf.default
 
 # Add a feed source
 # echo 'src-git passwall https://github.com/yasum2006/luci-app-passwall.git' >>feeds.conf.default
