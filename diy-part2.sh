@@ -17,6 +17,6 @@ sed -i 's/OpenWrt/HP GEN8/g' package/base-files/files/bin/config_generate
 # git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 # git clone -b master https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 # git clone -b master https://github.com/tindy2013/openwrt-subconverter.git package/openwrt-subconverter
-git clone -b master https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
-git clone -b master https://github.com/jerrykuku/luci-app-vssr.git  package/luci-app-vssr
+# git clone -b master https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
+# git clone -b master https://github.com/jerrykuku/luci-app-vssr.git  package/luci-app-vssr
 # git clone https://github.com/sbwml/luci-app-alist package/alist
